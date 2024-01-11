@@ -160,7 +160,7 @@ After 15 years there would be a high chance of more damage so we have to do reno
 We did all the steps such as Basic info, EDA, Preprocessing, and Model creation. However, we have to face challenges mostly in the EDA part because there are a total of 40 features in which we have to perform feature extraction by analyzing the EDA part from different graphs. At last, we finally reduced 40 features into 17 features. Then apply different six models and show their Accuracy in the Model Comparison Report.
 
 ------
-For More Information Please review the full analysis in the final notebook.
+For More Information Please review the full analysis in the [final notebook](https://github.com/Bamit-2021/Equake_Damage_Prediction/blob/main/EquakeDamagePred.ipynb).
 
 For any additional questions, feel free to email me at patroamit358@gmail.com
 
